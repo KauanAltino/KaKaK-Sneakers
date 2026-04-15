@@ -1,0 +1,11 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" rx="120" fill="#F8EDE1"/>
+  <circle cx="915" cy="280" r="190" fill="#FFD7C2"/>
+  <path d="M264 702C329 671 412 621 512 552C553 524 598 471 661 487C725 503 766 559 811 594C878 645 949 678 1012 724C1031 737 1035 765 1017 784C990 813 933 821 870 821H397C332 821 282 810 251 783C233 766 241 734 264 702Z" fill="#FFFDF8" stroke="#1F1A17" stroke-width="18"/>
+  <path d="M385 688C423 668 479 633 533 583C560 559 587 530 626 530C671 530 706 567 734 597C777 642 832 675 883 710" stroke="#EB5E28" stroke-width="20" stroke-linecap="round"/>
+  <path d="M349 822C378 891 444 936 534 936H819C872 936 913 922 944 896C976 869 995 830 1001 782" stroke="#1F1A17" stroke-width="18" stroke-linecap="round"/>
+  <path d="M437 734H770" stroke="#1F1A17" stroke-width="14" stroke-linecap="round" stroke-dasharray="18 18"/>
+  <path d="M582 429L704 523" stroke="#1F1A17" stroke-width="16" stroke-linecap="round"/>
+  <path d="M520 472L650 567" stroke="#1F1A17" stroke-width="16" stroke-linecap="round"/>
+  <text x="112" y="1044" fill="#1F1A17" font-size="84" font-family="Arial, sans-serif" font-weight="700">Velocity Beige</text>
+</svg>

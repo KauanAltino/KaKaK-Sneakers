@@ -1,0 +1,187 @@
+{
+  "_guide": [
+    "Para adicionar um novo produto, duplique um item dentro de products.",
+    "Em sizes, informe os tamanhos disponiveis entre 34 e 43.",
+    "Em image, informe o caminho da imagem local, por exemplo: assets/images/sneaker-velocity.svg.",
+    "Em page, informe a pagina individual do produto dentro da pasta products.",
+    "Preencha description, story, styleTips e highlights para enriquecer a pagina do item."
+  ],
+  "products": [
+    {
+      "id": "kktw-runner-01",
+      "brand": "Asics",
+      "name": "KKTW Velocity Beige",
+      "price": 329.9,
+      "sizes": [34, 35, 36, 37],
+      "image": "assets/images/sneaker-velocity.svg",
+      "tag": "Novo drop",
+      "page": "products/kktw-velocity-beige.html",
+      "description": "Modelo de base clara com pegada urbana e desenho leve para compor looks casuais com personalidade.",
+      "story": "O Velocity Beige mistura uma leitura clean com volume moderno. E um tenis que funciona bem para quem quer um visual alinhado sem parecer formal demais.",
+      "styleTips": [
+        "Calca cargo bege ou off-white com camiseta boxy preta.",
+        "Jeans reto azul claro com camiseta branca e jaqueta leve.",
+        "Shorts neutro com meia aparente para um visual street mais solto."
+      ],
+      "highlights": [
+        "Coloracao facil de combinar.",
+        "Perfil moderno para uso diario.",
+        "Boa leitura visual para looks minimalistas."
+      ]
+    },
+    {
+      "id": "kktw-runner-02",
+      "brand": "Adidas",
+      "name": "KKTW Urban Match",
+      "price": 359.9,
+      "sizes": [38, 39, 40],
+      "image": "assets/images/sneaker-urban.svg",
+      "tag": "Street pick",
+      "page": "products/kktw-urban-match.html",
+      "description": "Silhueta versatil com acento mais marcante, pensada para producoes urbanas de impacto rapido.",
+      "story": "O Urban Match conversa bem com pecas amplas e sobreposicoes. E um modelo para quem gosta de um visual de rua mais forte, sem exagerar nas cores.",
+      "styleTips": [
+        "Calca parachute escura com camiseta oversized.",
+        "Moletom grafite com boné estruturado.",
+        "Jeans preto com camisa aberta e regata lisa."
+      ],
+      "highlights": [
+        "Leitura street imediata.",
+        "Boa presenca visual no pe.",
+        "Funciona com base neutra e camadas."
+      ]
+    },
+    {
+      "id": "kktw-runner-03",
+      "brand": "New Balance",
+      "name": "KKTW Desert Flow",
+      "price": 319.9,
+      "sizes": [37, 38, 39, 40],
+      "image": "assets/images/sneaker-desert.svg",
+      "tag": "Desert tone",
+      "page": "products/kktw-desert-flow.html",
+      "description": "Tom terroso com presenca suave para quem prefere uma linguagem mais natural e elegante no visual diario.",
+      "story": "O Desert Flow foi pensado para compor producoes com textura e tons quentes. Ele encaixa com facilidade em looks mais sofisticados sem perder o peso casual.",
+      "styleTips": [
+        "Sarja areia com camiseta marrom ou ferrugem.",
+        "Linho cru com acessorios em couro.",
+        "Jeans claro com camisa bege de manga curta."
+      ],
+      "highlights": [
+        "Paleta terrosa facil de usar.",
+        "Passa sensacao de look mais maduro.",
+        "Boa escolha para producoes monocromaticas."
+      ]
+    },
+    {
+      "id": "kktw-runner-04",
+      "brand": "NIKE",
+      "name": "KKTW Carbon Pulse",
+      "price": 419.9,
+      "sizes": [40, 41, 42, 43],
+      "image": "assets/images/sneaker-carbon.svg",
+      "tag": "Premium",
+      "page": "products/kktw-carbon-pulse.html",
+      "description": "Cabedal escuro com recorte firme e visual premium para quem quer um par mais imponente no outfit.",
+      "story": "O Carbon Pulse tem presenca forte e funciona como ancora visual da roupa. Ele segura bem propostas noturnas, urbanas e minimalistas com um toque mais sofisticado.",
+      "styleTips": [
+        "Calca preta reta com camiseta pesada off-white.",
+        "Look todo em tons escuros com jaqueta curta.",
+        "Alfaiataria casual com modelagem ampla."
+      ],
+      "highlights": [
+        "Visual mais premium e denso.",
+        "Otimo para looks monocromaticos.",
+        "Recortes que chamam atencao sem excesso."
+      ]
+    },
+    {
+      "id": "kktw-runner-05",
+      "brand": "Vans",
+      "name": "KKTW Flare Orange",
+      "price": 389.9,
+      "sizes": [35, 36, 37, 38],
+      "image": "assets/images/sneaker-flare.svg",
+      "tag": "Destaque",
+      "page": "products/kktw-flare-orange.html",
+      "description": "Base clara com energia laranja para quem quer um ponto de destaque no look sem perder equilibrio visual.",
+      "story": "O Flare Orange foi pensado para aparecer. Ele entrega identidade logo no primeiro olhar, mas continua facil de combinar quando o resto da roupa segue uma base neutra.",
+      "styleTips": [
+        "Camiseta branca ampla com cargo bege.",
+        "Jeans medio com moletom cru.",
+        "Conjunto neutro deixando o tenis ser o ponto principal."
+      ],
+      "highlights": [
+        "Toque vibrante sem exagero.",
+        "Funciona bem como peca de destaque.",
+        "Boa opcao para looks claros e limpos."
+      ]
+    },
+    {
+      "id": "kktw-runner-06",
+      "brand": "Lacoste",
+      "name": "KKTW Classic Mono",
+      "price": 299.9,
+      "sizes": [39, 40, 41, 42],
+      "image": "assets/images/sneaker-classic.svg",
+      "tag": "Essencial",
+      "page": "products/kktw-classic-mono.html",
+      "description": "Modelo limpo, direto e facil de encaixar em praticamente qualquer rotacao de uso urbano.",
+      "story": "O Classic Mono aposta em uma linha mais discreta e objetiva. E ideal para quem quer um tenis coringa, com presenca suficiente para valorizar o visual sem competir com o resto das pecas.",
+      "styleTips": [
+        "Jeans azul escuro e camiseta branca.",
+        "Calca preta slim com camisa solta.",
+        "Moletom cinza e bermuda reta para uso casual."
+      ],
+      "highlights": [
+        "Facilidade total de combinacao.",
+        "Boa escolha para uso recorrente.",
+        "Visual limpo e atemporal."
+      ]
+    },
+    {
+      "id": "kktw-runner-07",
+      "brand": "Reserva",
+      "name": "KKTW Street Foam",
+      "price": 449.9,
+      "sizes": [41, 42, 43],
+      "image": "assets/images/sneaker-carbon.svg",
+      "tag": "Performance",
+      "page": "products/kktw-street-foam.html",
+      "description": "Perfil encorpado e leitura contemporanea para quem gosta de tenis com mais estrutura e presenca.",
+      "story": "O Street Foam leva uma linguagem mais robusta, com volume aparente e cara de produto forte. Ele funciona muito bem em looks amplos e combinacoes que pedem um tenis mais marcante.",
+      "styleTips": [
+        "Calca wide preta com camiseta pesada.",
+        "Jaqueta utilitaria e calca reta em nylon.",
+        "Look all black com acessorios metalicos."
+      ],
+      "highlights": [
+        "Silhueta robusta.",
+        "Mais impacto visual no outfit.",
+        "Boa leitura para proposta street moderna."
+      ]
+    },
+    {
+      "id": "kktw-runner-08",
+      "brand": "Havaianas",
+      "name": "KKTW Soft Sand",
+      "price": 279.9,
+      "sizes": [34, 35, 36, 37, 38],
+      "image": "assets/images/sneaker-desert.svg",
+      "tag": "Preco leve",
+      "page": "products/kktw-soft-sand.html",
+      "description": "Versao clara e suave da linha, com proposta casual descomplicada e leitura leve no pe.",
+      "story": "O Soft Sand foi pensado para quem prefere um tenis luminoso e facil. Ele acompanha bem roupas claras, pecas de verao e producoes casuais com toque clean.",
+      "styleTips": [
+        "Shorts bege com camiseta branca estruturada.",
+        "Calca clara de sarja com camisa aberta.",
+        "Vestuario em tons crus para reforcar a leveza do visual."
+      ],
+      "highlights": [
+        "Visual leve e facil de usar.",
+        "Bom custo para entrada no catalogo.",
+        "Combina bem com bases claras e neutras."
+      ]
+    }
+  ]
+}

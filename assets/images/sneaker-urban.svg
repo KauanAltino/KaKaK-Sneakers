@@ -1,0 +1,12 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" rx="120" fill="#EFE9E1"/>
+  <rect x="790" y="130" width="248" height="248" rx="42" fill="#1F1A17" fill-opacity="0.08"/>
+  <path d="M232 714C302 673 387 648 454 596C520 545 563 471 642 477C700 481 746 532 794 573C867 636 949 673 1004 722C1024 740 1029 774 1007 792C976 816 923 824 856 824H373C302 824 253 812 225 786C208 770 213 738 232 714Z" fill="#FFF8EF" stroke="#1F1A17" stroke-width="18"/>
+  <path d="M360 664C423 636 476 597 538 535C563 510 594 480 640 480" stroke="#1F1A17" stroke-width="18" stroke-linecap="round"/>
+  <path d="M470 714H855" stroke="#EB5E28" stroke-width="18" stroke-linecap="round"/>
+  <path d="M356 824C391 900 464 947 561 947H835C904 947 959 922 998 872" stroke="#1F1A17" stroke-width="18" stroke-linecap="round"/>
+  <path d="M575 431L678 526" stroke="#EB5E28" stroke-width="16" stroke-linecap="round"/>
+  <path d="M520 479L628 574" stroke="#EB5E28" stroke-width="16" stroke-linecap="round"/>
+  <path d="M467 532L580 626" stroke="#EB5E28" stroke-width="16" stroke-linecap="round"/>
+  <text x="110" y="1044" fill="#1F1A17" font-size="84" font-family="Arial, sans-serif" font-weight="700">Urban Match</text>
+</svg>

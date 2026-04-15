@@ -1,0 +1,11 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" rx="120" fill="#FBEEE5"/>
+  <circle cx="944" cy="272" r="170" fill="#FFB28E" fill-opacity="0.36"/>
+  <path d="M220 728C286 691 376 653 458 589C517 543 562 480 644 483C713 486 758 546 812 596C881 659 972 695 1037 746C1064 767 1071 799 1047 822C1015 850 953 862 869 862H354C275 862 225 850 195 821C178 805 184 748 220 728Z" fill="#FFF8F2" stroke="#1F1A17" stroke-width="18"/>
+  <path d="M349 699C408 676 491 636 560 573C598 538 632 510 682 510C738 510 780 546 830 595" stroke="#EB5E28" stroke-width="22" stroke-linecap="round"/>
+  <path d="M360 862C410 934 487 974 590 974H839C909 974 967 953 1011 913" stroke="#1F1A17" stroke-width="18" stroke-linecap="round"/>
+  <path d="M460 777H875" stroke="#1F1A17" stroke-width="14" stroke-linecap="round" stroke-dasharray="16 18"/>
+  <path d="M574 457L701 555" stroke="#1F1A17" stroke-width="16" stroke-linecap="round"/>
+  <path d="M517 509L650 607" stroke="#1F1A17" stroke-width="16" stroke-linecap="round"/>
+  <text x="110" y="1056" fill="#1F1A17" font-size="84" font-family="Arial, sans-serif" font-weight="700">Flare Orange</text>
+</svg>

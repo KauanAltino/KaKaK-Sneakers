@@ -1,0 +1,11 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" rx="120" fill="#F5E9D8"/>
+  <path d="M198 864C308 783 418 760 513 687C574 640 619 564 696 564C775 564 826 628 880 676C941 730 1003 760 1054 808C1090 842 1063 904 1007 904H307C228 904 169 885 159 846C156 831 168 818 198 864Z" fill="#FDF7EF" stroke="#1F1A17" stroke-width="18"/>
+  <path d="M330 710C399 692 479 652 543 594C584 557 627 523 684 523C732 523 770 548 816 592" stroke="#D88324" stroke-width="20" stroke-linecap="round"/>
+  <path d="M350 905C386 951 452 982 536 982H861C920 982 969 967 1004 937" stroke="#1F1A17" stroke-width="18" stroke-linecap="round"/>
+  <path d="M448 766H833" stroke="#1F1A17" stroke-width="14" stroke-linecap="round" stroke-dasharray="16 18"/>
+  <circle cx="936" cy="282" r="126" fill="#E9B97B" fill-opacity="0.42"/>
+  <path d="M572 472L716 582" stroke="#1F1A17" stroke-width="16" stroke-linecap="round"/>
+  <path d="M505 522L656 632" stroke="#1F1A17" stroke-width="16" stroke-linecap="round"/>
+  <text x="112" y="1060" fill="#1F1A17" font-size="84" font-family="Arial, sans-serif" font-weight="700">Desert Flow</text>
+</svg>

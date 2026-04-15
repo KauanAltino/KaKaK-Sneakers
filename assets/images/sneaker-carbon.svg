@@ -1,0 +1,11 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" rx="120" fill="#E6E0DA"/>
+  <rect x="128" y="132" width="232" height="232" rx="48" fill="#EB5E28" fill-opacity="0.18"/>
+  <path d="M235 730C309 696 398 666 484 603C547 556 598 477 687 490C756 500 806 564 853 610C913 669 974 700 1035 744C1063 764 1068 805 1043 826C1012 851 960 862 882 862H362C280 862 229 849 198 819C182 803 189 754 235 730Z" fill="#FDF9F5" stroke="#1F1A17" stroke-width="18"/>
+  <path d="M350 719C422 693 501 656 577 582C612 548 656 507 714 507C759 507 798 531 851 579" stroke="#1F1A17" stroke-width="20" stroke-linecap="round"/>
+  <path d="M367 862C404 930 476 970 573 970H852C928 970 991 946 1037 899" stroke="#1F1A17" stroke-width="18" stroke-linecap="round"/>
+  <path d="M473 769H886" stroke="#EB5E28" stroke-width="18" stroke-linecap="round"/>
+  <path d="M603 454L716 548" stroke="#EB5E28" stroke-width="16" stroke-linecap="round"/>
+  <path d="M541 504L662 597" stroke="#EB5E28" stroke-width="16" stroke-linecap="round"/>
+  <text x="112" y="1054" fill="#1F1A17" font-size="84" font-family="Arial, sans-serif" font-weight="700">Carbon Pulse</text>
+</svg>

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KakaKTW Sneakers</title>
+    <meta
+      name="description"
+      content="Loja de tenis com modelos em destaque e atendimento direto pelo WhatsApp."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Sora:wght@500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body data-whatsapp-number="5511999999999">
+    <div class="page-shell">
+      <header class="site-header">
+        <div class="container nav-bar">
+          <a class="brand" href="#top" aria-label="Ir para o topo">
+            <span class="brand-mark">KK</span>
+            <span class="brand-text">
+              <strong>KakaKTW Sneakers</strong>
+              <small>Sneakers selecionados para seu estilo</small>
+            </span>
+          </a>
+
+          <a class="header-link" href="#catalogo">Ver catalogo</a>
+        </div>
+      </header>
+
+      <main id="top">
+        <section class="hero-section">
+          <div class="container hero-grid">
+            <div class="hero-copy">
+              <p class="eyebrow">Drop da semana</p>
+              <h1>Os pares que elevam seu visual ja estao aqui.</h1>
+              <p class="hero-text">
+                Escolha entre modelos selecionados para o dia a dia, streetwear e looks
+                mais alinhados. Veja detalhes, numeracoes e fale direto no WhatsApp para
+                garantir o seu.
+              </p>
+
+              <div class="hero-points" aria-label="Diferenciais da loja">
+                <span class="hero-point">Modelos em destaque</span>
+                <span class="hero-point">Atendimento rapido</span>
+                <span class="hero-point">Compra pelo WhatsApp</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="catalog-shell-section" id="catalogo">
+          <div class="container shop-layout">
+            <aside class="brand-sidebar" aria-label="Marcas disponiveis">
+              <div class="brand-sidebar-card">
+                <p class="eyebrow">Marcas</p>
+                <div class="brand-list">
+                  <button type="button" class="brand-chip is-active" data-brand="">Todas</button>
+                  <button type="button" class="brand-chip" data-brand="Asics">Asics</button>
+                  <button type="button" class="brand-chip" data-brand="Adidas">Adidas</button>
+                  <button type="button" class="brand-chip" data-brand="New Balance">New Balance</button>
+                  <button type="button" class="brand-chip" data-brand="NIKE">NIKE</button>
+                  <button type="button" class="brand-chip" data-brand="Vans">Vans</button>
+                  <button type="button" class="brand-chip" data-brand="Lacoste">Lacoste</button>
+                  <button type="button" class="brand-chip" data-brand="Reserva">Reserva</button>
+                  <button type="button" class="brand-chip" data-brand="Havaianas">Havaianas</button>
+                  <button type="button" class="brand-chip" data-brand="Sandalias">Sandalias</button>
+                  <button type="button" class="brand-chip" data-brand="Soft Ever">Soft Ever</button>
+                </div>
+              </div>
+            </aside>
+
+            <div class="catalog-main">
+              <div class="filters-wrap">
+                <div class="section-heading">
+                  <p class="eyebrow">Catalogo</p>
+                </div>
+
+                <form class="filters-panel" id="filters-form">
+                  <label class="field-group">
+                    <span>Buscar por nome</span>
+                    <input
+                      type="search"
+                      id="search-input"
+                      placeholder="Ex.: Air, Runner, Street"
+                    />
+                  </label>
+
+                  <label class="field-group">
+                    <span>Marca</span>
+                    <select id="brand-filter">
+                      <option value="">Todas as marcas</option>
+                      <option value="Asics">Asics</option>
+                      <option value="Adidas">Adidas</option>
+                      <option value="New Balance">New Balance</option>
+                      <option value="NIKE">NIKE</option>
+                      <option value="Vans">Vans</option>
+                      <option value="Lacoste">Lacoste</option>
+                      <option value="Reserva">Reserva</option>
+                      <option value="Havaianas">Havaianas</option>
+                      <option value="Sandalias">Sandalias</option>
+                      <option value="Soft Ever">Soft Ever</option>
+                    </select>
+                  </label>
+
+                  <label class="field-group">
+                    <span>Filtrar por tamanho</span>
+                    <select id="size-filter">
+                      <option value="">Todos os tamanhos</option>
+                    </select>
+                  </label>
+
+                  <label class="field-group range-group">
+                    <span>Preco maximo</span>
+                    <input type="range" id="price-filter" min="0" max="1000" step="10" />
+                    <strong id="price-value">Ate R$ 1.000</strong>
+                  </label>
+
+                  <button type="reset" class="ghost-button" id="reset-filters">
+                    Limpar filtros
+                  </button>
+                </form>
+              </div>
+
+              <section class="catalog-section">
+                <div id="feedback-message" class="feedback-message" aria-live="polite">
+                  Carregando catalogo...
+                </div>
+                <div class="product-grid" id="product-grid"></div>
+              </section>
+            </div>
+          </div>
+        </section>
+
+          <div class="container info-grid">
+            <article class="info-card">
+              <p class="eyebrow">Atendimento</p>
+              <h3>Reserve seu par sem enrolacao.</h3>
+              <p>
+                Escolha o modelo, confira os detalhes e fale direto no WhatsApp para
+                confirmar numeracao, disponibilidade e finalizar seu pedido.
+              </p>
+            </article>
+          </div>
+        
+      </main>
+
+      <footer class="site-footer">
+        <div class="container footer-content">
+          <p>KakaKTW Sneakers. Seu proximo par pode estar aqui.</p>
+        </div>
+      </footer>
+    </div>
+
+    <script src="script.js" defer></script>
+  </body>
+</html>
